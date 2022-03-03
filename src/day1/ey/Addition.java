@@ -6,7 +6,7 @@ public class Addition {
 		Addition obj = new Addition();
 		int sum = obj.sum(12, 22);
 		int subt = obj.subt(27, 22);
-		System.out.println("so together the sum and subt is --> " + sum + " " + subt);
+		System.out.println("so together the sum and subtraction is --> " + sum + " " + subt);
 		int multi = obj.multi(5, 4);
 		int divi = obj.divi(10,  5);
 		System.out.println("here we go all!! --> " + sum + " " + subt + " " + multi + " " + divi);
